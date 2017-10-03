@@ -3,8 +3,8 @@
 // @version 1.0.2
 // @namespace atribecalledkwest
 // @description This script fixes the Gelbooru thumbnails if the thumbnail lazyloader doesn't run (typically due to an Adblocker)
-// @include https://gelbooru.com/*
-// @include http://gelbooru.com/*
+// @include http*://gelbooru.com/*
+// @include http*://youhate.us/*
 // @grant None
 // ==/UserScript==
 
